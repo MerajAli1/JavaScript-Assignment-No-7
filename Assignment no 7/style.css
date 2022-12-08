@@ -1,0 +1,14 @@
+
+
+.marig{
+    background-color: yellow;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+    border-left: 10px solid black;
+    border-top: 10px solid black;
+    margin-top:200px;
+}
+.marig2{
+    margin-top:100px;
+    
+}
